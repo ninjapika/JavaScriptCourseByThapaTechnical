@@ -43,7 +43,7 @@
 
 
 /**** Section 4👉 Data Types in JavaScript ****/
-
+Hjjjj
 
 // var myName = "vinod thapa";
 // console.log(myName);
